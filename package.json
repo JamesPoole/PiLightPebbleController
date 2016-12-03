@@ -1,0 +1,29 @@
+{
+    "author": "jgaple@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "pilight",
+    "pebble": {
+        "displayName": "PiLight",
+        "enableMultiJS": true,
+        "messageKeys": {
+            "OffKey": 0,
+            "OnKey": 1
+        },
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "5ab9b385-f326-4e50-95bf-95b64feaaf32",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
